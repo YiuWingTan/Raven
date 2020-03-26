@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: one
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ff96328b0376b8448a886393f1c5d492, type: 3}
+    totalSpriteSurfaceArea: 1029016
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3586e4d107299b94299748610fb902b3, type: 3}
+  - {fileID: 21300000, guid: be851e268a07a4b43ada91008c8aa408, type: 3}
+  - {fileID: 21300000, guid: dabb4f564fde63e4daaa27ff23190e52, type: 3}
+  - {fileID: 21300000, guid: b0c6a2c8c8c5c764a92b4b34b322b9cf, type: 3}
+  - {fileID: 21300000, guid: 239ad1b9c6239204086806a145a5b259, type: 3}
+  - {fileID: 21300000, guid: d479ec5c217abbc44b535d966f7e5f01, type: 3}
+  - {fileID: 21300000, guid: 0375ff0d92ecdef4b99bcf7640b69940, type: 3}
+  - {fileID: 21300000, guid: 37e56e3dda91c314c8ef31348f24dfbe, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Polygon
+  - "\u5706"
+  - YellowCircle
+  - GreenCircle
+  - Wall_Black
+  - player1
+  - Road
+  - Wall
+  m_Tag: one
+  m_IsVariant: 0
